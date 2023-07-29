@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProChat/static/css/main.651ce6e6.css",
+    "main.js": "/ProChat/static/js/main.3420668c.js",
+    "index.html": "/ProChat/index.html",
+    "main.651ce6e6.css.map": "/ProChat/static/css/main.651ce6e6.css.map",
+    "main.3420668c.js.map": "/ProChat/static/js/main.3420668c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651ce6e6.css",
+    "static/js/main.3420668c.js"
+  ]
+}
